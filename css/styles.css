@@ -1,15 +1,5 @@
-h2.intro {
+.intro {
   color: green;
   font-weight: bold;
-  text-decoration: underline;
-
-}
-
-p.intro {
-  font-size: .5em;
-  color: grey;
-}
-
-img.intro {
-  border: 14px dashed red;
+  border: 3px dashed red;
 }
